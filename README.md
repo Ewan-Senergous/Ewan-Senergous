@@ -1,11 +1,12 @@
-### 👋 Salut c'est Ewan Senergous !
+### **👋 Salut c'est Ewan Senergous !**
 ---
-### 💻 Développeur FullStack
+### 👨‍💻 **À propos de moi :**
 ---
 
-👨🏻‍💻 Ancien logisticien, je recherche à partir de **février 2026** une **formation en alternance sur Bordeaux en systèmes embarqués**.
+💻 Ancien logisticien, je recherche à partir de **février 2026** une **formation en alternance sur Bordeaux en systèmes embarqués**.
 
-💼 Actuellement en alternance chez **l'ASE-SEREM**.
+💼 Actuellement en **alternance chez l'ASE-SEREM** en tant que développeur fullstack. 
+- Développement e-commerce pour équipements industriels & Exporter/Importer des produits dans la BDD Cenov.
 
 ---
 
@@ -16,19 +17,19 @@
 
 ---
 
-### 🚀 **Projet mis en avant :**
+### 🚀 **Projets mis en avant :**
 
-- 🛠️ [**Cenov-Distribution**](https://www.cenov-distribution.fr/)➡️Développement du site e-commerce pour équipements industriels (+20 000 produits).
+- 🛒 [**Cenov-Distribution**](https://www.cenov-distribution.fr/)➡️Développement du site e-commerce pour équipements industriels (+20 000 produits).
 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=google%20analytics&logoColor=white)
 - 📊 [**ImportData**](https://db.cenov-distribution.com/)➡️Exporter/Importer des produits dans la BDD Cenov.
 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat&logo=Svelte&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Zod](https://img.shields.io/badge/-Zod-000000?style=flat&logo=zod&logoColor=3068B7) ![Docker](https://img.shields.io/badge/-Docker-2CA5E0?style=flat&logo=docker&logoColor=white) ![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=flat&logo=datagrip&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat&logo=Svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Zod](https://img.shields.io/badge/-Zod-000000?style=flat&logo=zod&logoColor=3068B7) ![Docker](https://img.shields.io/badge/-Docker-2CA5E0?style=flat&logo=docker&logoColor=white) ![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=flat&logo=datagrip&logoColor=white)
 
 
 ---
 
-### 🛠️ **Technologies & Outils :**
+### 🛠️ **Stack technique :**
 
 **Frontend & UI**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat&logo=Svelte&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white) 
@@ -57,4 +58,6 @@
 **En apprentissage**  
 ![Python](https://img.shields.io/badge/Python-In%20Progress-FFD43B?style=flat&logo=python&logoColor=blue) ![C++](https://img.shields.io/badge/C++-In%20Progress-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
+---
 
+### ⚡ **Fun Facts** : ⚽J'adore le foot et les mangas🗾! 
