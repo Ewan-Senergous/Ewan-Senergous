@@ -56,7 +56,7 @@
 ![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=flat&logo=datagrip&logoColor=white) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=google%20analytics&logoColor=white)
 
 **En apprentissage**  
-![Python](https://img.shields.io/badge/Python-In%20Progress-FFD43B?style=flat&logo=python&logoColor=blue) ![C++](https://img.shields.io/badge/C++-In%20Progress-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-In%20Progress-00599C?style=flat&logo=python&logoColor=yellow) ![C++](https://img.shields.io/badge/C++-In%20Progress-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ---
 
